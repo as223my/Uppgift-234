@@ -68,8 +68,7 @@ inte viktiga datum eller möten missas i onödan.
 * **BK 1** Ett medlemsregister som sammankopplar medlemmar med dess båtuppgifter.
     * **BK 1.1** Medlemsregistret ska vara användarvänligt, med enkel design och lätt tillgänglig information. 
     Då ålder och teknikvana skiftar stort mellan användare.
-
-* **BK 1.2** Medlemmarna ska med eget login kunna ändra personuppgifter, kontaktuppgifter samt information om båt.  
+    * **BK 1.2** Medlemmarna ska med eget login kunna ändra personuppgifter, kontaktuppgifter samt information om båt.  
 
 * **BK 2** Samla medlemsnamn, båtantal och avgift på en enskild sida till kassören, så att rätt avgift betalas in.
     * **BK 2.1** Visa om medlemmen har betalt sin avgift eller ej. 
