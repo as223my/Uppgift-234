@@ -5,7 +5,7 @@
 Båtklubben Den glade piratens medlemmar har på senare år ökat markant. 
 
 Föreningen har innan haft ett system som funkat ändamånligt, då medlemsantalet varit färre.
-Med ökat antal medlemmar har problem uppstått som nu börjat leda till ekonomiska problem för klubben.
+Med ökat antal medlemmar har problem uppstått som nu börjat leda till ekonomiska konsekvenser för klubben.
 Betalningar missas då systemet inte är uppbyggt för nuvarande antal medlemmar. 
 
 Den glade piraten behöver därför hjälp med att ordna ett medlemsregister.
