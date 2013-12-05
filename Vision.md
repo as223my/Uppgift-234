@@ -2,7 +2,8 @@
 
 ## Introduktion ##
 
-Båtklubben Den glade piratens medlemmar har på senare år ökat markant. 
+Båtklubben Den glade piratens medlemmar har på senare år ökat markant.
+Klubben hyr ut båtplatser, samt anordnar möten och aktiviteter. 
 
 Föreningen har innan haft ett system som funkat ändamånligt, då medlemsantalet varit färre.
 Med ökat antal medlemmar har problem uppstått som nu börjat leda till ekonomiska konsekvenser för klubben.
