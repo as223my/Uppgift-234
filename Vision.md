@@ -24,7 +24,7 @@ inte viktiga datum eller möten missas i onödan.
 
 **Den glade piratens båtägare:** Båtägarna, för person och båtuppgifter samt information rörande klubben. Datorvana varierar beroende på ålder.
 
-**Nya/Blivande kunder:** Nya kunder, för information och prisuppgifter.  
+**Nya/blivande kunder:** Nya kunder, för information och prisuppgifter.  
 
 **Den glade piratens sekreterare:** Anställd, har hand om båtplats-bokningar och möten, samt registrering av nya medlemmar.
 
@@ -39,7 +39,7 @@ inte viktiga datum eller möten missas i onödan.
 * **Anställda:** För underlättning arbetsuppgifter och organisation.
     * Kassör, Kassör@denGladePiraten.se
     * Sekreterare, Sekreteraren@denGladePiraten.se
-* **Medlemmar:** För ökad och mer lätttillgänglig information. 
+* **Medlemmar:** För ökad och mer lätt tillgänglig information. 
 * **Räddningstjänsten:** Vid olyckor. 
 * **Personuppgiftslagen (PuL):** För hantering av medlemmarnas personuppgifter. 
 
@@ -65,16 +65,17 @@ inte viktiga datum eller möten missas i onödan.
 
 ## Baskrav  
 
-**BK 1** Ett medlemsregister som sammankopplar medlemmar med dess båtuppgifter. 
-**BK 1.1** Medlemsregistret ska vara användar vänligt, med enkel design och lätt tillgänglig information. Då ålder och teknikvana skiftar stort mellan användare. 
-**BK 1.2** Medlemmarna ska med eget login kunna ändra personuppgifter, kontaktuppgifter samt information om båt.  
+* **BK 1** Ett medlemsregister som sammankopplar medlemmar med dess båtuppgifter.
+    * **BK 1.1** Medlemsregistret ska vara användar vänligt, med enkel design och lätt tillgänglig information. Då ålder och teknikvana skiftar stort mellan användare.
 
-**BK 2** Samla medlemsnamn, båtantal och avgift på en enskild sida till kassören, så att rätt avgift betalas in.
-**BK 2.1** Visa om medlemmen har betalt sin avgift eller ej. 
+* **BK 1.2** Medlemmarna ska med eget login kunna ändra personuppgifter, kontaktuppgifter samt information om båt.  
 
-**BK 3** Samla medlemsnamn och båtnamn me dess djup/bredd på enskild sida, för snabb och enkel tilldelning platser. Vid olycka snabb information till räddningstjänst.
+* **BK 2** Samla medlemsnamn, båtantal och avgift på en enskild sida till kassören, så att rätt avgift betalas in.
+    * **BK 2.1** Visa om medlemmen har betalt sin avgift eller ej. 
 
-**BK 4** En medlemssida med information om möten och vikitga datum, samt prisuppgifter för nya kunder. 
+* **BK 3** Samla medlemsnamn och båtnamn me dess djup/bredd på enskild sida, för snabb och enkel tilldelning platser. Vid olycka snabb information till räddningstjänst.
+
+* **BK 4** En medlemssida med information om möten och vikitga datum, samt prisuppgifter för nya kunder. 
 
 
 
