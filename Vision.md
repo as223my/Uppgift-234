@@ -45,7 +45,7 @@ inte viktiga datum eller möten missas i onödan.
 
 ## Liknande system ##
 
-*###Svenskt båtregister*
+###Svenskt båtregister
 **Fördelar**
 * Registering och information av båt. 
 * Går att manuellt föra kassabok om omkostnader.
@@ -54,7 +54,7 @@ inte viktiga datum eller möten missas i onödan.
 **Nackdelar**
 * Inget medlemsregister.
 
-*###Mawik Medlemsregister*
+###Mawik Medlemsregister
 **Fördelar**
 * Gratis medlemsregister.
 * Går att koppla medlemmarna till ett fordonsregister. 
