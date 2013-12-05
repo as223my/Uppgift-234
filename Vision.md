@@ -49,7 +49,8 @@ inte viktiga datum eller möten missas i onödan.
 **Fördelar**
 * Registering och information av båt. 
 * Går att manuellt föra kassabok om omkostnader.
-* Anmäla om båten är stulen. 
+* Anmäla om båten är stulen.
+
 **Nackdelar**
 * Inget medlemsregister.
 
@@ -58,10 +59,11 @@ inte viktiga datum eller möten missas i onödan.
 * Gratis medlemsregister.
 * Går att koppla medlemmarna till ett fordonsregister. 
 * Avisering och betalfunktioner.
+
 **Nackdelar**
 * Båtar ingår ej i fordonsregistret (statens obligatoriska båtregister lades ned 1993, därav finns Svenskt Båtregister). 
 
-## Baskrav ## 
+## Baskrav  
 
 **BK 1** Ett medlemsregister som sammankopplar medlemmar med dess båtuppgifter. 
 **BK 1.1** Medlemsregistret ska vara användar vänligt, med enkel design och lätt tillgänglig information. Då ålder och teknikvana skiftar stort mellan användare. 
