@@ -1,6 +1,6 @@
 # Vision - Den glade piraten! #
 
-## Introduktion ##
+## Problembeskrivning ##
 
 Båtklubben Den glade piratens medlemmar har på senare år ökat markant.
 Klubben hyr ut båtplatser, samt anordnar möten och aktiviteter. 
