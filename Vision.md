@@ -66,14 +66,16 @@ inte viktiga datum eller möten missas i onödan.
 ## Baskrav  
 
 * **BK 1** Ett medlemsregister som sammankopplar medlemmar med dess båtuppgifter.
-    * **BK 1.1** Medlemsregistret ska vara användar vänligt, med enkel design och lätt tillgänglig information. Då ålder och teknikvana skiftar stort mellan användare.
+    * **BK 1.1** Medlemsregistret ska vara användar vänligt, med enkel design och lätt tillgänglig information. 
+    Då ålder och teknikvana skiftar stort mellan användare.
 
 * **BK 1.2** Medlemmarna ska med eget login kunna ändra personuppgifter, kontaktuppgifter samt information om båt.  
 
 * **BK 2** Samla medlemsnamn, båtantal och avgift på en enskild sida till kassören, så att rätt avgift betalas in.
     * **BK 2.1** Visa om medlemmen har betalt sin avgift eller ej. 
 
-* **BK 3** Samla medlemsnamn och båtnamn me dess djup/bredd på enskild sida, för snabb och enkel tilldelning platser. Vid olycka snabb information till räddningstjänst.
+* **BK 3** Samla medlemsnamn och båtnamn me dess djup/bredd på enskild sida, för snabb och enkel tilldelning platser. 
+  Vid olycka snabb information till räddningstjänst.
 
 * **BK 4** En medlemssida med information om möten och vikitga datum, samt prisuppgifter för nya kunder. 
 
