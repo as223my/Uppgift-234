@@ -1,4 +1,4 @@
-# Vision - den glade piraten! #
+# Vision - Den glade piraten! #
 
 ## Introduktion ##
 
