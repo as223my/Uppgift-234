@@ -13,7 +13,7 @@ Den glade piraten behöver därför hjälp med att ordna ett medlemsregister.
 Med hjälp av ett ordentligt medlemsregister kan klubben vända utvecklingen, få bättre ekonomi och 
 koll över dess medlemmar. 
 
-Detta kommer att underlätta både för kassören samt sekreteraren.
+Detta kommer att underlätta både för klubben kassör och sekreterare.
 För med hjälp av ett medlemregister, blir det betydligt enklare att ha överblick på medlemmar,
 inbetalningar och båtdjup. Räddningstjänsten kan även snabbt få den information som behövs vid eventuell olycka.
 
