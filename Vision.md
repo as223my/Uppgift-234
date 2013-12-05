@@ -42,7 +42,7 @@ inte viktiga datum eller möten missas i onödan.
     * Sekreterare, Sekreteraren@denGladePiraten.se
 * **Medlemmar:** För ökad och mer lätt tillgänglig information. 
 * **Räddningstjänsten:** Vid olyckor. 
-* **Personuppgiftslagen (PuL):** För hantering av medlemmarnas personuppgifter. 
+* **Datainspektionen:** För hantering av medlemmarnas personuppgifter. 
 
 ## Liknande system ##
 
@@ -67,8 +67,7 @@ inte viktiga datum eller möten missas i onödan.
 ## Baskrav  
 
 * **BK 1** Ett medlemsregister som sammankopplar medlemmar med dess båtuppgifter.
-    * **BK 1.1** Medlemsregistret ska vara användarvänligt, med enkel design och lätt tillgänglig information. 
-    Då ålder och teknikvana skiftar stort mellan användare.
+    * **BK 1.1** Medlemsregistret ska vara användarvänligt, då ålder och teknikvana skiftar stort mellan användare.
     * **BK 1.2** Medlemmarna ska med eget login kunna ändra personuppgifter, kontaktuppgifter samt information om båt.  
 
 * **BK 2** Samla medlemsnamn, båtantal och avgift på en enskild sida till kassören, så att rätt avgift betalas in.
