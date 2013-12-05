@@ -24,7 +24,7 @@ inte viktiga datum eller möten missas i onödan.
 
 **Den glade piratens båtägare:** Båtägarna, för person och båtuppgifter samt information rörande klubben. Datorvana varierar beroende på ålder.
 
-**Nya/blivande kunder:** Nya kunder, för information och prisuppgifter.  
+**Den glade piratens nya/blivande kunder:** Nya kunder, för information och prisuppgifter.  
 
 **Den glade piratens sekreterare:** Anställd, har hand om båtplats-bokningar och möten, samt registrering av nya medlemmar.
 
@@ -45,7 +45,7 @@ inte viktiga datum eller möten missas i onödan.
 
 ## Liknande system ##
 
-###Svenskt båtregister 
+*###Svenskt båtregister*
 **Fördelar**
 * Registering och information av båt. 
 * Går att manuellt föra kassabok om omkostnader.
@@ -54,7 +54,7 @@ inte viktiga datum eller möten missas i onödan.
 **Nackdelar**
 * Inget medlemsregister.
 
-###Mawik Medlemsregister
+*###Mawik Medlemsregister*
 **Fördelar**
 * Gratis medlemsregister.
 * Går att koppla medlemmarna till ett fordonsregister. 
