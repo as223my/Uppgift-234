@@ -11,23 +11,23 @@ Vill enkelt kunna bli registrerade och få lätt tillgänglig information om hä
 
 **Sekreterare** 
 
-Vill snabbt få information om ändringar i registeringar. Så att uppdateringar av avgiftslista, båtlista och båtplatser kan göra snarast efter ändring. 
-För att undvika onödiga frågor och problem från medlemmar.  
+Vill snabbt få information om ändringar i registeringar. Så att uppdateringar av avgiftslista, båtlista och båtplatser kan göra snarast efter ändringar. 
+Detta för att kunna undvika onödiga frågor och problem från medlemmar.  
 
 
 **Kassör** 
 
-Vill att avgiftslistan är uppdaterad, så inga fel görs i samband med fakturering och betalning av båtplats och medlemsavgift. 
+Vill att avgiftslistan är uppdaterad, så inga fel görs i samband med fakturering och betalning av båtplats samt medlemsavgift. 
 
 **Räddningstjänsten**
 
-Vill snabbt få tillgång till klubbens medlemregister och båtplatser vid eventuell olycka. 
+Vill snabbt få tillgång till klubbens medlemsregister samt båtplatser vid eventuell olycka. 
 
 ### Sekundär Aktör
 
 **Svenskt båtregister**
 
-Att med hjälp av Svenskt båtregister få information av båttyp, bredd och längd för att kunna tilldela en passande båtplats till kund.  
+Att med hjälp av Svenskt båtregister få information om båttyp, bredd och längd för att kunna tilldela en passande båtplats till kund.  
 
 
 ### Offstage Aktör
@@ -63,7 +63,7 @@ Ser till att registreringen av nya medlemmar följer personuppgiftslagen (PuL).
 ### AF1.1 Registering av kund.
 Sekreteraren tar emot uppgifter av kund. 
 Personuppgifterna samt båtuppgifterna registreras. 
-Kassören tar emot ev. fakturor. 
+Kassören tar emot eventuella fakturor. 
 Kunden får ett unikt användar id samt lösenord för att själv kunna ändra viktig information i framtiden.
 
 ### AF1.2 Tilldelning av båtplats.
@@ -72,11 +72,11 @@ Detta registreras tillsammans med personuppgifter av kund i avgiftslistan för k
 Ändring av båtplatser uppdateras i båtlistan så att räddningstjänsten vid behov kan få tillgång till rätt information. 
 
 ### AF1.7 Registrering/Uppdatering av information från kund och kassör. 
-Om kunden uppdaterar information, kommer detta meddelas sekreteraren.
-När dessa uppgifter sedan validerats av sekreteraren kommer de olika listorna att uppdateras. 
+Om kunden uppdaterar sin information, kommer detta meddelas till sekreteraren.
+När dessa uppgifter sedan validerats av sekreteraren kommer alla listor att uppdateras. 
 
 ### AF3.1 Registrering av betalda fakturor. 
-Kassören registrerar betalda fakturor. Kassören stämmer av betald summa med avgiftslistan och uppdaterar därefter betalstatusen.
+Kassören registrerar betalda fakturor. Kassören stämmer av betald summa från kund med avgiftslistan, och uppdaterar därefter betalstatusen.
 
 
 ## AF1.1 Ny registering av kund. ##
@@ -108,7 +108,7 @@ Kassören registrerar betalda fakturor. Kassören stämmer av betald summa med a
 * 2a. Om kund angett felaktiga personuppgifter. 
     * 1. Kund kontaktas. 
         * 1a. Fel rättas vid kontakt med kund. 
-        * 1b. Om kund inte är anträffbar eller om uppgifterna fortfarande inte stämmer vid rättning, kontaktas kund och användningsfallet avslutas.
+        * 1b. Om kund inte är anträffbar eller om uppgifterna fortfarande inte stämmer vid rättning, meddelas kund och användningsfallet avslutas.
 
 * 3a. Om kund inte har/vill ha båtplats i föreningen.
     * 1. Medlemsavgift tas ut. Gå till steg 6.
