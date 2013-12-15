@@ -9,54 +9,54 @@
 Båtägare som vill ha sin båt hos klubben samt personer som är båtintreserade som vill vara medlemmar i klubben.
 Vill enkelt kunna bli registrerade och få lätt tillgänglig information om händelser. 
 
-** Sekreterare ** 
+**Sekreterare** 
 
 Vill snabbt få information om ändringar i registeringar. Så att uppdateringar av avgiftslista, båtlista och båtplatser kan göra snarast efter ändring. 
 För att undvika onödiga frågor och problem från medlemmar.  
 
 
-** Kassör ** 
+**Kassör** 
 
 Vill att avgiftslistan är uppdaterad, så inga fel görs i samband med fakturering och betalning av båtplats och medlemsavgift. 
 
-** Räddningstjänsten **
+**Räddningstjänsten**
 
 Vill snabbt få tillgång till klubbens medlemregister och båtplatser vid eventuell olycka. 
 
 ### Sekundär Aktör
 
-** Svenskt båtregister **
+**Svenskt båtregister**
 
 Att med hjälp av Svenskt båtregister få information av båttyp, bredd och längd för att kunna tilldela en passande båtplats till kund.  
 
 
 ### Offstage Aktör
 
-** Datainspektionen **
+**Datainspektionen**
 
 Ser till att registreringen av nya medlemmar följer personuppgiftslagen (PuL). 
 
 ## Användningsfall ##
 
 ### 1. Sekreterare
-* AF1.1 Ny registering av kund.
-* AF1.2 Tilldelning av båtplats. 
-* AF1.3 Uppdatering av båtlista.
-* AF1.4 Uppdatering/Tilläggning av avgiftslista.
-* AF1.5 Uppdatering/Tilläggning av informationssida. 
-* AF1.6 Ta emot information från kund och kassör.  
-* AF1.7 Registrering/Uppdatering av information från kund. 
+* **AF1.1** Ny registering av kund.
+* **AF1.2** Tilldelning av båtplats. 
+* **AF1.3** Uppdatering av båtlista.
+* **AF1.4** Uppdatering/Tilläggning av avgiftslista.
+* **AF1.5** Uppdatering/Tilläggning av informationssida. 
+* **AF1.6** Ta emot information från kund och kassör.  
+* **AF1.7** Registrering/Uppdatering av information från kund. 
 
 ### 2. Kund
-* AF2.1 Uppdatering/registrering av kontaktuppgifter samt båtinformation.
-* AF2.2 Kontakt med sekreterare vid fel eller ändringar av AF2.1. 
+* **AF2.1** Uppdatering/registrering av kontaktuppgifter samt båtinformation.
+* **AF2.2** Kontakt med sekreterare vid fel eller ändringar av AF2.1. 
 
 ### 3. Kassör
-* AF3.1 Registrering av betalda fakturor. 
-* AF3.2 Uppdatering av information om betalstatus. 
+* **AF3.1** Registrering av betalda fakturor. 
+* **AF3.2** Uppdatering av information om betalstatus. 
 
 ### 4. Räddningstjänsten
-* AF4.1 Ta emot båtlista vid olycka.  
+* **AF4.1** Information om medlemmar samt båtar vid olycka.  
 
 ## Kort beskrivinging av användningsfall ##
 
@@ -83,16 +83,16 @@ Kassören registrerar betalda fakturor. Kassören stämmer av betald summa med a
 
 ###Primär Aktör
 
-Kund
-Sekreterare
+* Kund
+* Sekreterare
 
 ###Sekundär Aktör
 
-Svenskt båtregister
+* Svenskt båtregister
 
 ###Offstage Aktör
 
-Datainspektionen 
+* Datainspektionen 
 
 ### Huvudscenario
 
@@ -123,7 +123,7 @@ Datainspektionen
 
 ### Regler vid registering av kund
 
-** Personuppgiftslagen (PuL) måste följas. ** 
+**Personuppgiftslagen (PuL) måste följas.** 
 
 ### Frågor
 
