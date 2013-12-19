@@ -79,7 +79,7 @@ När dessa uppgifter sedan validerats av sekreteraren kommer alla listor att upp
 Kassören registrerar betalda fakturor. Kassören stämmer av betald summa från kund med avgiftslistan, och uppdaterar därefter betalstatusen.
 
 
-## AF1.1 Ny registering av kund. ##
+## AF1 Ny registering av kund. ##
 
 ###Primär Aktör
 
