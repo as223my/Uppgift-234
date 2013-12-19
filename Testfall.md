@@ -72,7 +72,7 @@ Fortsätt från steg 15 i huvudscenario.
 * 3. Systemet frågar om man verkligen vill fortsätta utan att ange båttyp. 
 * 4. Ange fortsätt. 
 
-###TF 1.3 Alternativtscenario, ingen båtplats finns.
+###TF 1.4 Alternativtscenario, ingen båtplats finns.
 
 Testar registrering av medlem, när båtplats önskas men ej finns tillgänglig.  
 
