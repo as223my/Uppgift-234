@@ -104,7 +104,7 @@ Kassören registrerar betalda fakturor. Kassören stämmer av betald summa från
 6. Systemet hämtar uppgifter om båt från sekundär aktör. 
 7. Aktören väljer båtplats. 
 8. Systemet tilldelar aktören båtplats. 
-9. Aktören tilldelas inloggnings uppgifter till systemet. 
+9. Aktören väljer inloggnings uppgifter till systemet. 
 10. Systemet uppdaterar alla listor med information om ny aktör. 
 
 
