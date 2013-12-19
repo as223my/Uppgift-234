@@ -96,17 +96,18 @@ Kassören registrerar betalda fakturor. Kassören stämmer av betald summa från
 
 ### Huvudscenario
 
-1. Alternativet ny medlem väljs. 
-2. Systemet frågar efter aktörens personuppgifter. 
-3. Aktören ger systemet sina personuppgifter.
-4. Systemet frågar efter aktörens båttyp.
-5. Aktören anger båttyp till systemet. 
-6. Systemet hämtar uppgifter om båt från sekundär aktör. 
-7. Aktören väljer båtplats. 
-8. Systemet tilldelar aktören båtplats. 
-9. Aktören väljer inloggnings uppgifter till systemet. 
-10. Systemet uppdaterar alla listor med information om ny aktör. 
-
+* 1. Alternativet ny medlem väljs. 
+* 2. Systemet frågar efter aktörens personuppgifter.
+* 3. Aktören ger systemet sina personuppgifter.
+* 4. Systemet validerar personuppgifter och frågar efter aktörens båttyp. 
+* 5. Aktören anger båttyp till systemet.
+* 6. Systemet hämtar uppgifter om båt från sekundär aktör, och frågar aktören om tilläggsinformation.
+* 7. Aktören skriver in eventuell tillägsinformation.
+* 8. Systemet letar upp lämpliga båtplatser som passar aktörens båt.
+* 9. Aktören väljer båtplats.
+* 10. Systemet registrerar val av båtplats, samt ber aktören att välja inloggningsuppgifter. 
+* 11. Aktören väljer inloggnings uppgifter till systemet. 
+* 12. Systemet validerar inloggnings uppgifterna och uppdaterar alla listor med information om ny aktör.
 
 ### Alternativa Scenarios
 
