@@ -25,7 +25,6 @@ Kontrollera i systemet att registrering av medlem har genomförts.
 * 10. Systemet registrerar val av båtplats, och frågar efter inloggningsuppgifter. 
 * 11. Välj användarnamn: Anna11 lösenord: Anna11.
 * 12. Systemet godkänner inloggnings uppgifterna och uppdaterar alla listor med information om ny medlem.
-* 13. Registreringen av ny medlem lyckas. 
 
 ###TF 1.2 Alternativtscenario, felaktiga personuppgifter.
 
