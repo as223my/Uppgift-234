@@ -1,6 +1,6 @@
 # Testfall - Den glade piraten! #
 
-## TF AF1 Registering av kund.##
+## TF AF1 Registrering av kund.##
 
 Testar registrering av ny medlem/kund i klubben Den glade piraten. 
 
@@ -12,14 +12,14 @@ Kontrollera i systemet att registrering av medlem har genomförts.
 
 * 1. Gå till dengladepiraten.se
 * 2. Inloggningssida presenteras.
-* 2. Logga in som administratör (användarnamn: admin, lösenord: lösen).
+* 2. Logga in som administratör (användarnamn: admin, lösenord: admin00).
 * 3. Menyval visas. 
 * 4. Välj medlems registrering.
 * 5. Formulär för ny medlem visas.
 * 6. Skriv in personuppgifter av ny medlem.
 * 7. Systemet frågar efter båttyp.
-* 8. Ange båttyp.
-* 9. Systemet hämtar information om båt, och frågar om tillägsinformation.
+* 8. Välj båttyp.
+* 9. Systemet hämtar information om båt, och frågar om tilläggsinformation.
 * 10. Skriv in eventuell information, välj sedan ok. 
 * 11. Systemet validerar uppgifterna som matats in.
 * 12. Systemet presenterar lediga båtplatser som passar båttyp. 
