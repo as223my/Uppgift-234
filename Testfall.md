@@ -53,7 +53,7 @@ Forsätt från steg 7 i huvudscenario.
     * 4a. Uppgifter stämmer inte, felmeddelande visas.  
 
 
-####TF 1.3 Alternativtscenario, medlem vill inte ha båtplats. 
+###TF 1.3 Alternativtscenario, medlem vill inte ha båtplats. 
 
 Testar registrering av medlem utan båt. 
 
