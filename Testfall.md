@@ -4,7 +4,7 @@
 
 Testar registrering av ny medlem/kund i klubben Den glade piraten. 
 
-###Efterkrav
+####Efterkrav
 
 Kontrollera i systemet att registrering av medlem har genomförts. 
 
