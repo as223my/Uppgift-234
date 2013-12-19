@@ -42,7 +42,7 @@ Huvudscenario har följts från steg 1 till 5.
 
 ####Efterkrav
 
-Forsätt från steg 7 i huvudscenario. 
+Fortsätt från steg 7 i huvudscenario. 
 
 ####Scenario
 
