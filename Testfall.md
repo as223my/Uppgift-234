@@ -21,7 +21,7 @@ Kontrollera i systemet att registrering av medlem har genomförts.
 * 8. Ange båttyp.
 * 9. Systemet hämtar information om båt, och frågar om tillägsinformation.
 * 10. Skriv in eventuell information, välj sedan ok. 
-* 11. Systemet verifierar uppgifterna som matats in.
+* 11. Systemet validerar uppgifterna som matats in.
 * 12. Systemet presenterar lediga båtplatser som passar båttyp. 
 * 13. Välj båtplats från alternativ.
 * 14. Båtplats registreras.
