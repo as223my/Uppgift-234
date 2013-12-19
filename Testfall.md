@@ -48,7 +48,7 @@ Fortsätt från steg 7 i huvudscenario.
 
 * 1. Felaktiga personuppgifter om medlem skrivs in.
 * 2. Systemet visar felmeddelande.
-* 3. Ändra uppgifter.
+* 3. Ändra personuppgifter.
 * 4. Lyckad registrering av personuppgifter.
     * 4a. Uppgifter stämmer inte, felmeddelande visas.  
 
