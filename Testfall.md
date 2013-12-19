@@ -16,7 +16,7 @@ Kontrollera i systemet att registrering av medlem har genomförts.
 * 1. Välj registrera ny medlem i menyvalet. 
 * 2. Formulär för ny medlem visas, och systemet frågar efter personuppgifter.
 * 3. Skriv in förnamn: Anna, efternamn: Andersson, personnummer: 900526-1234, och telefonnummer: 031-44443.  
-* 4. Systemet godkänner personuppgiftena och frågar efter medlemmens båttyp. 
+* 4. Systemet godkänner personuppgifterna och frågar efter medlemmens båttyp. 
 * 5. Ange båttyp: Nimbus 34 Nova. 
 * 6. Systemet hämtar uppgifter om båt, och frågar efter tilläggsinformation.
 * 7. Välj/byt ut båtbredd till 3m, båtlängd till 8m och båtdjup till 1,5m. 
